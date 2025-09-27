@@ -33,8 +33,7 @@ https://youtu.be/HlmUaYKjjZc
 
 _Autores del proyecto:_
 
-* **Errodringer** - *Programación y edición* - [Errodringer](https://www.youtube.com/c/Errodringer?sub_confirmation=1)
-
+* **Errodringer** - *Programación y edición*
 ## Licencia 📄
 
 Este proyecto es divulgativo. Solo para uso personal, aprendizaje y entretenimiento.
